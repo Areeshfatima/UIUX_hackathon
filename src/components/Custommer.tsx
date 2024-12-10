@@ -16,7 +16,7 @@ export const custommerData = [
   {
     id: 3,
     name: "James L.",
-    verified: false,
+    verified: true,
     review:
       "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.",
   },
