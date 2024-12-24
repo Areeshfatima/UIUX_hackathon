@@ -106,7 +106,7 @@ export default function Footer() {
         <h5 className="text-center md:text-left">
           Shop.co © 2000-2023, Arishfa All Rights Reserved
         </h5>
-        <Image src={"/pay.png"} alt="payment logo" width={281} height={30} />
+        <Image src={"/Pay.png"} alt="payment logo" width={281} height={30} />
       </div>
     </div>
   );
