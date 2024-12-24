@@ -21,7 +21,7 @@ export default function Hero() {
       {/*  Hero Right Background */}
       <div className=" relative overflow-hidden w-full h-[400px]  sm:h-[600px] md:h-[500px] lg:h-[550px] xl:h-[600px] md:flex-1">
         <Image
-          src={"/hero1.png"}
+          src={"/hero1.jpg"}
           alt="hero image"
           fill
           objectFit="cover"
@@ -33,7 +33,7 @@ export default function Hero() {
           alt={"star image"}
           width={56}
           height={56}
-          className="hidden md:flex absolute top-[150px] sm:top-[200px] md:top-[250px] lg:top-[300px] xl:top-[331px] left-[30px] sm:left-[40px] md:left-[27px]"
+          className="hidden md:flex absolute top-[150px] sm:top-[200px] md:top-[250px] lg:top-[300px] xl:top-[331px] left-[20px] sm:left-[40px] md:left-[27px]"
         />
 
         <Image
